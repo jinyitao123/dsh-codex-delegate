@@ -1,0 +1,4 @@
+- insert:
+    - id: codex-delegate
+      name: '@local/codex-delegate'
+      config: {}

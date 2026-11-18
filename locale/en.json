@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Codex delegate",
+    "description": "Registers a codex_delegate tool that hands self-contained coding tasks to the local Codex CLI (codex exec) and returns its final report.",
+    "detail": "docs/DETAIL.md"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Codex 转接",
+    "description": "注册 codex_delegate 工具，把独立完整的编码任务转交给本地 Codex CLI（codex exec）执行，并返回它的最终报告。",
+    "detail": "docs/DETAIL.md"
+  }
+}
